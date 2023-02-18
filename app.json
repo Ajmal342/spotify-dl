@@ -6,8 +6,8 @@
     "music",
     "music downloader"
   ],
-  "repository": "https://github.com/rozari0/NeedMusicRobot/",
-  "website": "https://t.me/NeedMusicRobot",
+  "repository": "https://github.com/Ajmal342/spotify-dl/",
+  "website": "https://t.me/A_J_M_A_L",
   "success_url": "https://t.me/NeedMusicRobot",
   "env": {
     "API_ID": {
